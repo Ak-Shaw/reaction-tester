@@ -1,0 +1,17 @@
+            #shape{
+                
+                width: 200px;
+                height: 200px;
+                background-color: red;
+                display: none;
+                position: relative;
+            }
+            
+            .bold{
+                font-weight: bolder;
+            }
+            
+            body{
+                font-family: 'Shadows Into Light Two', cursive;
+                background-color: chartreuse
+            }
